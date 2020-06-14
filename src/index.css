@@ -9,6 +9,8 @@
   display: block;
   height: 80px;
   width: 80px;
+  position: absolute;
+  left: 0;
 }
 .leftArrow::after {
   content:"\2191";
@@ -18,5 +20,27 @@
   font-weight: bold;
   font-size: 60px;
   text-align: center;
+
   
+}
+
+.rightArrow {
+  background: #4679BD;
+  text-decoration:none;
+  border-radius: 50%;
+  display: block;
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  right: 0;
+}
+.rightArrow::after {
+  content:"\2191";
+  display: block;
+  transform:rotate(90deg);
+  color: white;
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+
 }
