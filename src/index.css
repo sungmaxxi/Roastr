@@ -1,6 +1,11 @@
 .theBigQ {
   text-align : center
 }
+.card{
+  background-color: #d3d3d3;
+  height: 100px;
+  width: 100px;
+}
 
 .leftArrow {
   background: #4679BD;
@@ -10,7 +15,7 @@
   height: 80px;
   width: 80px;
   position: absolute;
-  left: 0;
+  left:0
 }
 .leftArrow::after {
   content:"\2191";
@@ -43,4 +48,10 @@
   font-size: 60px;
   text-align: center;
 
+}
+
+.card{
+  margin-left: auto;
+  margin-right: auto;
+  width: 8em
 }

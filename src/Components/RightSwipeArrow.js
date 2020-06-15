@@ -6,6 +6,7 @@ class RightSwipeArrow extends React.Component{
     }
     render(){
         return <a className = "rightArrow"></a>
+        
     }
 }
 
