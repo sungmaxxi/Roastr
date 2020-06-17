@@ -1,3 +1,8 @@
+A web app currently being written with React, Express, and Bootstrap.
+
+It's like Tinder, but for people who want to roast each other. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
