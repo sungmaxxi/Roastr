@@ -1,4 +1,4 @@
-A web app currently being written with React, Express, and Bootstrap.
+A web app currently being written with React and Bootstrap.
 
 It's like Tinder, but for people who want to roast each other. 
 
