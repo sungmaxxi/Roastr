@@ -1,13 +1,14 @@
 import React from 'react'
+import Button from 'react-bootstrap/Button'
 
 class RightSwipeArrow extends React.Component{
     constructor(){
         super()
     }
     render(){
-        return(<button className = "rightArrow">
+        return(<Button className = "rightArrow">
         <span className = "glyphicon glyphicon-chevron-right"></span>
-    </button>)
+    </Button>)
     }
 }
 
